@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+backend/venv/
+backend/Dockerfile
+frontend/node_modules/
+dist/
+docker-compose.yml
+.env.example
